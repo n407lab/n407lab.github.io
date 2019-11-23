@@ -1,0 +1,8 @@
+#lab robots.txt
+User-agent: *
+
+Allow: /
+
+Disallow: /n407/
+
+Sitemap: https://lab.jxustctf.top/sitemap.xml
